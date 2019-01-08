@@ -6,7 +6,7 @@
 | :---------- | :------------------------------------------------------------------------------ |
 | Name        | 岸本 卓(Suguru Kishimoto)                                                       |
 | Blog        | [https://tech-blog.sgr-ksmt.org/](https://tech-blog.sgr-ksmt.org/)              |
-| Qiita       | [@su_k(http://qiita.com/su_k)  ](http://qiita.com/su_k)                         |
+| Qiita       | [@sgr-ksmt(https://qiita.com/sgr-ksmt)](https://qiita.com/sgr-ksmt)             |
 | Speakerdeck | [@sgrksmt(https://speakerdeck.com/sgrksmt/) ](https://speakerdeck.com/sgrksmt/) |
 
 ## School/Job history
