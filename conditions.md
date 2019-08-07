@@ -95,3 +95,7 @@
 
 基本的にはサービス開発よりの事に従事するのが好きですが、
 技術的問題の解決、マネジメントといった領域も経験・興味はあります。
+
+
+## 謝辞
+こちらのドキュメントは、d_date氏の[Call for Job Offers](https://scrapbox.io/d-date-cv/Call_for_Job_Offers)を参考に書かせていただきました。
