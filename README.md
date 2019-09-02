@@ -229,7 +229,7 @@ iOSエンジニアの自分とデザイナー1人、プロジェクトマネー�
 
 | Date             | Event      | Details      |
 | :--------------- | :--------- | :----------- |
-| 2019/09/05-09/07 | iOSDC 2019 | 運営スタッフ |
+| 2019/09/05-07 | iOSDC 2019 | 運営スタッフ |
 | 2018/08/30-09/02 | iOSDC 2018 | 当日スタッフ |
 | 2017/09/15-17    | iOSDC 2017 | 当日スタッフ |
 
@@ -245,9 +245,10 @@ iOSエンジニアの自分とデザイナー1人、プロジェクトマネー�
 
 | Date       | Event                             | Slide                                                                                                              |
 | :--------- | :-------------------------------- | :----------------------------------------------------------------------------------------------------------------- |
+| 2019/02/02  | GCPUG Fukuoka 「Firebase特集」 | [A use case of Firebase in Komerco.](https://speakerdeck.com/sgrksmt/a-use-case-of-firebase-in-komerco) |
 | 2018/10/9  | potato tips #55                   | [Improve Event log using Sourcery in iOS](https://speakerdeck.com/sgrksmt/improve-event-log-using-sourcery-in-ios) |
-| 2018/8/7   | Firebase Meetup #5                | [はじめてのCloud Firestore](https://speakerdeck.com/sgrksmt/cloud-firestore-for-biginners)                         |
-| 2018/7/19  | Cookpad Tech Kitchen #16          | [Effective Firestore Security](https://speakerdeck.com/sgrksmt/effective-firestore-security)                       |
+| 2018/08/7   | Firebase Meetup #5                | [はじめてのCloud Firestore](https://speakerdeck.com/sgrksmt/cloud-firestore-for-biginners)                         |
+| 2018/07/19  | Cookpad Tech Kitchen #16          | [Effective Firestore Security](https://speakerdeck.com/sgrksmt/effective-firestore-security)                       |
 | 2017/11/21 | Firebase Yebisu #1                | [Try new Firebase AB testing](https://speakerdeck.com/sgrksmt/try-new-firebase-ab-testing)                         |
 | 2016-12-21 | Realm meetup 忘年会 + LT大会 2016 | [「それでもぼくはAuto Incrementしたい」](https://speakerdeck.com/sgrksmt/soredemobokuhaauto-incrementsitai)        |
 
@@ -257,4 +258,4 @@ iOSエンジニアの自分とデザイナー1人、プロジェクトマネー�
   - 藤永 真至氏と共著 (現在は絶版)
 - 「Firebase入門 フリマアプリを作りながら、
 認証・Firestore・Cloud Functionsの使い方を学ぼう」
-  - https://employment.en-japan.com/engineerhub/entry/2019/06/07/103000?_gl=1*15is6st*_ga*YW1wLU9pbjV4Nk1UdE4zQ1BFQzc5bXRlS0dTWHVhaGJGbHZRZmY1ZGh5cDMweEFlcGJsaUFfLWs4M2IzQ215RFUwYjg.
+  - https://employment.en-japan.com/engineerhub/entry/2019/06/07/103000
