@@ -143,6 +143,10 @@ iOSエンジニアとして新規事業の立ち上げに携わる。
 
 - [Firebase入門 フリマアプリを作りながら、認証・Firestore・Cloud Functionsの使い方を学ぼう！](https://employment.en-japan.com/engineerhub/entry/2019/06/07/103000)
 
+<br /><br /><br /><br /><br />
+
+-----
+
 ### 株式会社TIMERS: 2016/4 ~ 2017/07
 
 iOSエンジニアとして入社。Famm及びPairyの機能開発、改善に従事。  
