@@ -31,7 +31,12 @@
 ## Status
 - 副業のみ検討中
 
-詳細は[条件](conditions.md)をご覧ください。
+詳細は
+
+- [条件](conditions.md)
+- [Firebaseの技術顧問でお手伝いできるところ、探しています。](https://note.com/su_k/n/n64b4ef432fc4)
+
+をご覧ください。
 
 ## Skills
 
